@@ -1,4 +1,5 @@
 UNLOCODE,Alternative UNLOCODEs,Terminal Code,Terminal Facility Name,Terminal Company Name,Latitude (DMS),Longitude (DMS),Latitude,Longitude,Last change,Valid from,Valid until,Terminal Website,Terminal Address,Remarks
+ZZZZZZZTEST,,ZZZZZZZTEST,TEST, TERMINALS,"N 24°48'37""","E 054°38'46""",24.810278,54.646111,,2020-05-03,,https://www.testwebsite2.com,Test port2 - ZZZZZZZTEST LOCATION2,
 AEAUH,,ADT,KHALIFA PORT CONTAINER TERMINAL,ABU DHABI TERMINALS,"N 24°48'37""","E 054°38'46""",24.810278,54.646111,,2015-05-03,,https://www.adterminals.ae,Khalifa Port Container Terminal Building 70 Taweelah - Abu Dhabi - U.A.E.,
 AEJEA,,DPWJA,DP WORLD JEBEL ALI - CT1,DP WORLD JEBEL ALI,"N 24°59'32""","E 055°03'58""",24.992222,55.066111,,2012-10-05,,https://dpworld.ae/our-portfolio/jebel-ali-port/,"PO Box 17000, Dubai, United Arab Emirates",
 AEJEA,,DPWJ2,DP WORLD JEBEL ALI - CT2,DP WORLD JEBEL ALI,"N 25°01'20""","E 055°03'42""",25.022222,55.061667,,2015-02-05,,https://dpworld.ae/our-portfolio/jebel-ali-port/,"PO Box 17000, Dubai, United Arab Emirates",
@@ -843,4 +844,3 @@ ZADUR,,TNP1,TRANSNET PORT TERMINALS DURBAN PIER 1,PIER 1 CONTAINER TERMINAL,"S 2
 ZADUR,,TNP2,TRANSNET PORT TERMINALS DURBAN PIER 2,DURBAN CONTAINER TERMINAL,"S 29°52'50""","E 031°01'03""",-29.880556,31.0175,,2004-05-31,,https://www.transnetportterminals.net/pages/default.aspx,,
 ZANGQ,,TNNQ,TRANSNET PORT TERMINALS NGQURA,TRANSNET PORT TERMINALS,"S 33°48'02""","E 025°40'55""",-33.800556,25.681944,,2004-05-31,,https://www.transnetportterminals.net/pages/default.aspx,,
 ZAPLZ,,TNPE,TRANSNET PORT TERMINALS PORT ELIZABETH,TRANSNET PORT TERMINALS,"S 33°57'30""","E 025°38'17""",-33.958333,25.638056,,2004-05-31,,https://www.transnetportterminals.net/pages/default.aspx,,
-DDDDDDTEST,,DDDDDDTEST,TEST, TERMINALS,"N 24°48'37""","E 054°38'46""",24.810278,54.646111,,2020-05-03,,https://www.testwebsite2.com,Test port2 - TEST LOCATION2,
